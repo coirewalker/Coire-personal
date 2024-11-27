@@ -657,7 +657,7 @@ blockquote {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  opacity: .95;
+  /*opacity: .95;*/
 }
 
 .section-inner.start-page-full-width .hp-text-block {
